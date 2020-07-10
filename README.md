@@ -5,7 +5,7 @@ Studying JavaScript.
 - [Slack Channels Grouping](https://github.com/yamadashy/slack-channels-grouping)
 - [Google Sheets tabs on top](https://github.com/yamadashy/google-sheets-tabs-on-top)
 
-# VSCode Extension
+## VSCode Extension
 - [VSCode React Jade](https://github.com/yamadashy/vscode-react-jade)
 
 # Links
