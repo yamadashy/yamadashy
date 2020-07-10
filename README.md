@@ -1,3 +1,5 @@
+Studying JavaScript...
+
 # Products
 
 - [Slack Channels Grouping](https://github.com/yamadashy/slack-channels-grouping)
