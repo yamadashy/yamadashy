@@ -1,3 +1,5 @@
+Interested in web frontend.
+
 # Products
 ## Chrome Extension
 - [Slack Channels Grouping](https://github.com/yamadashy/slack-channels-grouping)
