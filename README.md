@@ -11,7 +11,7 @@ Interested in web frontend.
 
 ## Team Products
 ### kiokumushi
-- [kiokumushi](https://twitter.com/kiokumushi) ... already closed. Dapps(Block Chain Game). Truffle, Firebase, Unity, React.
+- [kiokumushi](https://twitter.com/kiokumushi) ... already closed. Dapps(Blockchain Game). Truffle, Firebase, Unity, React.
 
 # Links
 - [Codepen](https://codepen.io/yamadashy)
