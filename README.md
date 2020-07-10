@@ -1,4 +1,4 @@
-Studying JavaScript...
+Studying JavaScript.
 
 # Products
 
