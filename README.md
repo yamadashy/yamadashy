@@ -1,17 +1,9 @@
 Interested in web frontend.
 
 # Products
-## Own Products
-### Chrome Extension
+## Chrome Extension
 - [Slack Channels Grouping](https://github.com/yamadashy/slack-channels-grouping)
 - [Google Sheets tabs on top](https://github.com/yamadashy/google-sheets-tabs-on-top)
-
-### VSCode Extension
-- [VSCode React Jade](https://github.com/yamadashy/vscode-react-jade)
-
-## Team Products
-### kiokumushi
-- [kiokumushi](https://twitter.com/kiokumushi) ... already closed. Dapps(Blockchain Game). Truffle, Firebase, Unity, React.
 
 # Links
 - [Codepen](https://codepen.io/yamadashy)
