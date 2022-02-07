@@ -9,4 +9,5 @@ Interested in web frontend and dog :dog:.
 
 ### Composer Packages
 | Package| Repository |
+| - | - |
 | [Laravel Blade Minify Directive](https://packagist.org/packages/yamadashy/laravel-blade-minify-directive) | [yamadashy/laravel-blade-minify-directive](https://github.com/yamadashy/laravel-blade-minify-directive) |
