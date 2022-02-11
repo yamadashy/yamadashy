@@ -16,4 +16,4 @@ Interested in web frontend and dog :dog:.
 
 | Name | Repository |
 | - | - |
-| [Tech Blog RSS](https://yamadashy.github.io/tech-blog-rss-feed/) | [yamadashy/tech-blog-rss-feed](https://github.com/yamadashy/tech-blog-rss-feed) |
+| [企業テックブログRSS](https://yamadashy.github.io/tech-blog-rss-feed/) | [yamadashy/tech-blog-rss-feed](https://github.com/yamadashy/tech-blog-rss-feed) |
