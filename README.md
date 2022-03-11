@@ -9,7 +9,7 @@ Interested in web frontend and dog :dog:.
 
 ### Websites
 
-| Name | - | Repository |
+| Name | | Repository |
 | - | - | - |
 | [企業テックブログRSS](https://yamadashy.github.io/tech-blog-rss-feed/) | <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fyamadashy.github.io%2Ftech-blog-rss-feed%2Ffeeds%2Frss.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-flat-medium_2x.png' alt='follow us in feedly' width='70'></a> <a href="https://www.inoreader.com?add_feed=https://yamadashy.github.io/tech-blog-rss-feed/feeds/rss.xml"><img src="https://www.inoreader.com/brand/img/subscribe-btn-x1.png" width="94"></a> | [yamadashy/tech-blog-rss-feed](https://github.com/yamadashy/tech-blog-rss-feed) |
 
