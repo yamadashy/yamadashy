@@ -16,4 +16,5 @@ Interested in web frontend and dog :dog:.
 ### Composer Packages
 | Package | Repository |
 | - | - |
+| [PHPStan Formatter Friendly](https://packagist.org/packages/yamadashy/phpstan-formatter-friendly) | [yamadashy/phpstan-formatter-friendly](https://github.com/yamadashy/phpstan-formatter-friendly) |
 | [Laravel Blade Minify Directive](https://packagist.org/packages/yamadashy/laravel-blade-minify-directive) | [yamadashy/laravel-blade-minify-directive](https://github.com/yamadashy/laravel-blade-minify-directive) |
