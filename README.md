@@ -21,7 +21,7 @@ Interested in web frontend and dog :dog:.
 
 | Name | | Repository |
 | - | - | - |
-| [Repopack](https://packagist.org/packages/yamadashy/repopack) |  [![npm](https://img.shields.io/npm/v/repopack.svg?maxAge=1000)](https://www.npmjs.com/package/repopack) | [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/repopack) |
+| [Repopack](https://www.npmjs.com/package/repopack) |  [![npm](https://img.shields.io/npm/v/repopack.svg?maxAge=1000)](https://www.npmjs.com/package/repopack) | [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/repopack) |
 | [PHPStan Friendly Formatter](https://packagist.org/packages/yamadashy/phpstan-friendly-formatter) |  [![Downloads](https://shields.io/packagist/dt/yamadashy/phpstan-friendly-formatter)](https://packagist.org/packages/yamadashy/phpstan-friendly-formatter) | [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) |
 | [Laravel Blade Minify Directive](https://packagist.org/packages/yamadashy/laravel-blade-minify-directive) |  [![Downloads](https://shields.io/packagist/dt/yamadashy/laravel-blade-minify-directive)](https://packagist.org/packages/yamadashy/laravel-blade-minify-directive) | [yamadashy/laravel-blade-minify-directive](https://github.com/yamadashy/laravel-blade-minify-directive) |
 
