@@ -12,7 +12,7 @@ Interested in web frontend and dog :dog:.
 ### Tools
 | Name | | Repository |
 | - | - | - |
-| [Repopack](https://www.npmjs.com/package/repopack) | ![npm](https://img.shields.io/npm/d18m/repopack) | [yamadashy/repopack](https://github.com/yamadashy/repopack) |
+| [Repopack](https://www.npmjs.com/package/repopack) | ![npm](https://img.shields.io/npm/d18m/repopack) | [![npm](https://img.shields.io/npm/d18m/repopack)](https://www.npmjs.com/package/repopack) |
 
 ### Websites
 | Name | Stats | Repository |
