@@ -7,7 +7,7 @@ Interested in web frontend and dog :dog:.
 ### Tools
 | Name | | Repository |
 | - | - | - |
-| [Repomix](https://www.npmjs.com/package/repomix) | [![npm](https://img.shields.io/npm/d18m/repomix)](https://www.npmjs.com/package/repomix) [![GitHub Stars](https://img.shields.io/github/stars/yamadashy/repomix?style=flat&logo=github)](https://github.com/yamadashy/repomix) | [yamadashy/repomix](https://github.com/yamadashy/repomix) |
+| [Repomix](https://www.npmjs.com/package/repomix) (formerly Repopack) | [![npm](https://img.shields.io/npm/d18m/repomix)](https://www.npmjs.com/package/repomix) [![GitHub Stars](https://img.shields.io/github/stars/yamadashy/repomix?style=flat&logo=github)](https://github.com/yamadashy/repomix) | [yamadashy/repomix](https://github.com/yamadashy/repomix) |
 
 ### Websites
 | Name | Stats | Repository |
