@@ -1,7 +1,5 @@
 Interested in web frontend and dog :dog:.
 
-[yamadashy.github.io](https://yamadashy.github.io/)
-
 ## Projects
 
 ### Tools
