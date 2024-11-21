@@ -12,3 +12,6 @@ Interested in web frontend and dog :dog:.
 | **Packages** | [PHPStan Friendly Formatter](https://packagist.org/packages/yamadashy/phpstan-friendly-formatter) | [![GitHub Stars](https://img.shields.io/github/stars/yamadashy/phpstan-friendly-formatter?style=flat&logo=github)](https://github.com/yamadashy/phpstan-friendly-formatter) [![Downloads](https://shields.io/packagist/dt/yamadashy/phpstan-friendly-formatter)](https://packagist.org/packages/yamadashy/phpstan-friendly-formatter) |
 | | [Laravel Blade Minify Directive](https://packagist.org/packages/yamadashy/laravel-blade-minify-directive) | [![GitHub Stars](https://img.shields.io/github/stars/yamadashy/laravel-blade-minify-directive?style=flat&logo=github)](https://github.com/yamadashy/laravel-blade-minify-directive) [![Downloads](https://shields.io/packagist/dt/yamadashy/laravel-blade-minify-directive)](https://packagist.org/packages/yamadashy/laravel-blade-minify-directive) |
 
+And here's my best friend who keeps me company while coding:
+
+![IMG_1333](https://github.com/user-attachments/assets/d9fbde3d-c4a8-4c35-be11-93ac748b8502)
