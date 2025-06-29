@@ -1,5 +1,9 @@
 Interested in web frontend and dog :dog:.
 
+[![Follow X](https://img.shields.io/badge/@yamadashy-000000?style=flat-square&logo=x)](https://x.com/yamadashy)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/yamadashy?style=flat-square&logo=github&label=Sponsors)
+](https://github.com/sponsors/yamadashy)
+
 | Category | Project | Stats |
 | - | - | - |
 | **Tool/Website** | <img src="https://raw.githubusercontent.com/yamadashy/repomix/refs/heads/main/website/client/src/public/images/repomix-logo.svg" height=15> [Repomix CLI][repomix-cli] / [Website][repomix-web] | [![GitHub Stars][repomix-stars]][repomix-github] [![npm][repomix-npm]][repomix-npm-link] |
