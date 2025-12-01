@@ -10,6 +10,7 @@ Interested in web frontend and dog :dog:.
 | **Chrome Extension** | <img src="https://raw.githubusercontent.com/yamadashy/slack-channels-grouping/main/app/images/icon-128.png" height=15> [Slack Channels Grouping][slack-extension] | [![GitHub Stars][slack-stars]][slack-github] [![Chrome Web Store Users][slack-users]][slack-extension] |
 | | <img src="https://raw.githubusercontent.com/yamadashy/google-sheets-tabs-on-top/main/app/images/icon-128.png" height=15> [Google Sheets tabs on top][sheets-extension] | [![GitHub Stars][sheets-stars]][sheets-github] [![Chrome Web Store Users][sheets-users]][sheets-extension] |
 | | <img src="https://raw.githubusercontent.com/yamadashy/github-deepwiki/main/app/images/icon.png" height=15> [GitHub DeepWiki Button][deepwiki-extension] | [![GitHub Stars][deepwiki-stars]][deepwiki-github] [![Chrome Web Store Users][deepwiki-users]][deepwiki-extension] |
+| | <img src="https://github.com/yamadashy/github-code-wiki-button/blob/main/app/images/icon-128.png?raw=true" height=15> [GitHub Code Wiki Button][codewiki-extension] | [![GitHub Stars][codewiki-stars]][codewiki-github] [![Chrome Web Store Users][codewiki-users]][codewiki-extension] |
 | **Website** | <img src="https://raw.githubusercontent.com/yamadashy/tech-blog-rss-feed/refs/heads/main/src/site/images/icon-transparent.png" height=15> [企業テックブログRSS][tech-blog] | [![GitHub Stars][tech-blog-stars]][tech-blog-github] <a href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fyamadashy.github.io%2Ftech-blog-rss-feed%2Ffeeds%2Frss.xml'  target='blank'><img id='feedlyFollow' src='https://img.shields.io/badge/dynamic/json?color=green&label=Feedly&query=%24.subscribers&url=https%3A%2F%2Fcloud.feedly.com%2Fv3%2Ffeeds%2Ffeed%252Fhttps%253A%252F%252Fyamadashy.github.io%252Ftech-blog-rss-feed%252Ffeeds%252Frss.xml' alt='follow us in feedly' width='75'></a> <a href="https://www.inoreader.com?add_feed=https://yamadashy.github.io/tech-blog-rss-feed/feeds/rss.xml"><img src="https://www.inoreader.com/images/landing/v2/brand-portal/ino_logo_text_blue.png" width="72"></a> |
 | **Package** | [PHPStan Friendly Formatter][phpstan] | [![GitHub Stars][phpstan-stars]][phpstan-github] [![Downloads][phpstan-downloads]][phpstan] |
 | | [Laravel Blade Minify Directive][blade-minify] | [![GitHub Stars][blade-stars]][blade-github] [![Downloads][blade-downloads]][blade-minify] |
@@ -39,6 +40,11 @@ And here's my best friend who keeps me company while coding:
 [deepwiki-stars]: https://img.shields.io/github/stars/yamadashy/github-deepwiki?style=flat&logo=github
 [deepwiki-github]: https://github.com/yamadashy/github-deepwiki
 [deepwiki-users]: https://img.shields.io/chrome-web-store/users/agchcjkheangfiopepndmenabbaopnpp?logo=google-chrome&logoColor=white
+
+[codewiki-extension]: https://chromewebstore.google.com/detail/github-code-wiki-button-u/eamgaijkcackfmgpnddepjindfhmobnl
+[codewiki-stars]: https://img.shields.io/github/stars/yamadashy/github-code-wiki-button?style=flat&logo=github
+[codewiki-github]: https://github.com/yamadashy/github-code-wiki-button
+[codewiki-users]: https://img.shields.io/chrome-web-store/users/eamgaijkcackfmgpnddepjindfhmobnl?logo=google-chrome&logoColor=white
 
 [tech-blog]: https://yamadashy.github.io/tech-blog-rss-feed/
 [tech-blog-stars]: https://img.shields.io/github/stars/yamadashy/tech-blog-rss-feed?style=flat&logo=github
