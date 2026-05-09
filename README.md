@@ -7,6 +7,8 @@ Interested in web frontend and dog :dog:.
 | Category | Project | Stats |
 | - | - | - |
 | **Tool/Website** | <img src="https://raw.githubusercontent.com/yamadashy/repomix/refs/heads/main/website/client/src/public/images/repomix-logo.svg" height=15> [Repomix CLI][repomix-cli] / [Website][repomix-web] | [![GitHub Stars][repomix-stars]][repomix-github] [![npm][repomix-npm]][repomix-npm-link] |
+| | <img src="https://raw.githubusercontent.com/yamadashy/pdfvision/main/docs/logo.svg" height=15> [pdfvision CLI][pdfvision-cli] | [![GitHub Stars][pdfvision-stars]][pdfvision-github] [![npm][pdfvision-npm]][pdfvision-npm-link] |
+| | <img src="https://raw.githubusercontent.com/yamadashy/duvis/main/docs/logo.svg" height=15> [Duvis CLI][duvis-cli] | [![GitHub Stars][duvis-stars]][duvis-github] [![Crates.io][duvis-crates]][duvis-crates-link] |
 | **Chrome Extension** | <img src="https://raw.githubusercontent.com/yamadashy/slack-channels-grouping/main/app/images/icon-128.png" height=15> [Slack Channels Grouping][slack-extension] | [![GitHub Stars][slack-stars]][slack-github] [![Chrome Web Store Users][slack-users]][slack-extension] |
 | | <img src="https://raw.githubusercontent.com/yamadashy/google-sheets-tabs-on-top/main/app/images/icon-128.png" height=15> [Google Sheets tabs on top][sheets-extension] | [![GitHub Stars][sheets-stars]][sheets-github] [![Chrome Web Store Users][sheets-users]][sheets-extension] |
 | | <img src="https://raw.githubusercontent.com/yamadashy/github-deepwiki/main/app/images/icon.png" height=15> [GitHub DeepWiki Button][deepwiki-extension] | [![GitHub Stars][deepwiki-stars]][deepwiki-github] [![Chrome Web Store Users][deepwiki-users]][deepwiki-extension] |
@@ -25,6 +27,18 @@ And here's my best friend who keeps me company while coding:
 [repomix-github]: https://github.com/yamadashy/repomix
 [repomix-npm]: https://img.shields.io/npm/d18m/repomix
 [repomix-npm-link]: https://www.npmjs.com/package/repomix
+
+[pdfvision-cli]: https://www.npmjs.com/package/pdfvision
+[pdfvision-stars]: https://img.shields.io/github/stars/yamadashy/pdfvision?style=flat&logo=github
+[pdfvision-github]: https://github.com/yamadashy/pdfvision
+[pdfvision-npm]: https://img.shields.io/npm/dm/pdfvision
+[pdfvision-npm-link]: https://www.npmjs.com/package/pdfvision
+
+[duvis-cli]: https://crates.io/crates/duvis
+[duvis-stars]: https://img.shields.io/github/stars/yamadashy/duvis?style=flat&logo=github
+[duvis-github]: https://github.com/yamadashy/duvis
+[duvis-crates]: https://img.shields.io/crates/d/duvis?logo=rust
+[duvis-crates-link]: https://crates.io/crates/duvis
 
 [slack-extension]: https://chrome.google.com/webstore/detail/slack-channels-grouping/lcbnhfianneihfgkmfncnhpkpghedbkm
 [slack-stars]: https://img.shields.io/github/stars/yamadashy/slack-channels-grouping?style=flat&logo=github
