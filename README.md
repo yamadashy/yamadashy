@@ -31,7 +31,7 @@ And here's my best friend who keeps me company while coding:
 [pdfvision-cli]: https://www.npmjs.com/package/pdfvision
 [pdfvision-stars]: https://img.shields.io/github/stars/yamadashy/pdfvision?style=flat&logo=github
 [pdfvision-github]: https://github.com/yamadashy/pdfvision
-[pdfvision-npm]: https://img.shields.io/npm/dm/pdfvision
+[pdfvision-npm]: https://img.shields.io/npm/d18m/pdfvision
 [pdfvision-npm-link]: https://www.npmjs.com/package/pdfvision
 
 [duvis-cli]: https://crates.io/crates/duvis
