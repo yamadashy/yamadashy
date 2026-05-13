@@ -7,7 +7,7 @@ Interested in web frontend and dog :dog:.
 | Category | Project | Stats |
 | - | - | - |
 | **Tool/Website** | <img src="https://raw.githubusercontent.com/yamadashy/repomix/refs/heads/main/website/client/src/public/images/repomix-logo.svg" height=15> [Repomix CLI][repomix-cli] / [Website][repomix-web] | [![GitHub Stars][repomix-stars]][repomix-github] [![npm][repomix-npm]][repomix-npm-link] |
-| | <img src="https://raw.githubusercontent.com/yamadashy/pdfvision/main/docs/logo.svg" height=15> [pdfvision CLI][pdfvision-cli] $\color{red}{\text{NEW!}}$ | [![GitHub Stars][pdfvision-stars]][pdfvision-github] [![npm][pdfvision-npm]][pdfvision-npm-link] |
+| | <img src="https://raw.githubusercontent.com/yamadashy/pdfvision/main/docs/logo.svg" height=15> [pdfvision CLI][pdfvision-cli] $\color{red}{\text{NEW! ✨}}$ | [![GitHub Stars][pdfvision-stars]][pdfvision-github] [![npm][pdfvision-npm]][pdfvision-npm-link] |
 | **Chrome Extension** | <img src="https://raw.githubusercontent.com/yamadashy/slack-channels-grouping/main/app/images/icon-128.png" height=15> [Slack Channels Grouping][slack-extension] | [![GitHub Stars][slack-stars]][slack-github] [![Chrome Web Store Users][slack-users]][slack-extension] |
 | | <img src="https://raw.githubusercontent.com/yamadashy/google-sheets-tabs-on-top/main/app/images/icon-128.png" height=15> [Google Sheets tabs on top][sheets-extension] | [![GitHub Stars][sheets-stars]][sheets-github] [![Chrome Web Store Users][sheets-users]][sheets-extension] |
 | | <img src="https://raw.githubusercontent.com/yamadashy/github-deepwiki/main/app/images/icon.png" height=15> [GitHub DeepWiki Button][deepwiki-extension] | [![GitHub Stars][deepwiki-stars]][deepwiki-github] [![Chrome Web Store Users][deepwiki-users]][deepwiki-extension] |
